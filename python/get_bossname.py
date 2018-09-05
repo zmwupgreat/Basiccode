@@ -55,23 +55,5 @@ def unique(filename):
 
 
 if __name__ == '__main__' :
-    #中央政治局
-    #url='https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%A7%94%E5%91%98/10622019?fr=aladdin&fromid=12574682&fromtitle=%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%A7%94%E5%91%98'
-    #100感动中国人物
-    #url='https://baike.baidu.com/item/100%E4%BD%8D%E6%96%B0%E4%B8%AD%E5%9B%BD%E6%88%90%E7%AB%8B%E4%BB%A5%E6%9D%A5%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%89%A9/6182590'
-    #奥运会冠军
-    #url='https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B/863861?fr=aladdin'
-    #中将
-    #url='https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B%E4%B8%AD%E5%B0%86/13870885'
-    #少将
-    #url='https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B%E5%B0%91%E5%B0%86'
-    #上将
-    #url='https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B%E4%B8%8A%E5%B0%86'
-    #主持人
-    #url='https://baike.baidu.com/item/%E5%A4%AE%E8%A7%86%E5%8D%81%E4%BD%B3%E4%B8%BB%E6%8C%81%E4%BA%BA/7667355'
-    #print('aaaaaa')
-    #baidubaike_boss(url)
-    #url = 'https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E9%99%A2%E5%A3%AB/327194?fr=aladdin'
-    #url='https://baike.baidu.com/item/%E5%BC%80%E5%9B%BD%E5%B0%91%E5%B0%86'
     #baidubaike_boss(url)
     unique('name.txt')

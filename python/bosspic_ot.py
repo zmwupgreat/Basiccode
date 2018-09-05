@@ -7,7 +7,7 @@ import re
 import os
 import itertools
 
-ImagePath = "E:/work/data-set/hhh" #文件保存路径
+ImagePath = "" #文件保存路径
 oneperson = 600
 str_table = {
     '_z2C$q': ':',
